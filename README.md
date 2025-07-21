@@ -47,7 +47,7 @@ You can install them using the [Adafruit CircuitPython Bundle](https://circuitpy
     - [Eliah De Guzman](https://www.linkedin.com/in/eliahdeguzman/) (Developer Member)
     - [Katherine Bui](https://www.linkedin.com/in/katherine-bui-a7ab51297) (Developer Member)
     - [Robin Adhikari](https://github.com/Robin-01) (Developer Member)
-    - [Mitch Zheng]() (Developer Member)
+    - [Mitch Zheng](https://www.linkedin.com/in/mitch-zheng-5643ab281/) (Developer Member)
 
 ---
 
