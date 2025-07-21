@@ -1,0 +1,15 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+
+# CircuitPython-related
+.mpy
+
+# VS Code or editor configs
+.vscode/
+*.code-workspace
+
+# MacOS/Windows system files
+.DS_Store
+Thumbs.db
